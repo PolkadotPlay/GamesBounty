@@ -17,27 +17,33 @@
 ## 1. Pitch the Game
 
 ### Please describe the game in a short pitch.
-- **Example Answer:** "EtherQuests" merges MMORPG excitement with blockchain innovation, offering a player-driven world where every item and quest is a unique NFT. Engage in epic battles, uncover treasures, and shape the game's universe. Your achievements hold real-world value, blurring the lines between gaming and ownership.
+> **Example** "EtherQuests" merges MMORPG excitement with blockchain innovation, offering a player-driven world where every item and quest is a unique NFT. Engage in epic battles, uncover treasures, and shape the game's universe. Your achievements hold real-world value, blurring the lines between gaming and ownership.
 
 ### Please describe the game's core loop? (minimalistic)
-- **Example:** Battle (Action) -> Loot (Reward) -> Buy/Sell -> Upgrade
+> **Example** Battle (Action) -> Loot (Reward) -> Buy/Sell -> Upgrade
 
-### Are there any existing games that you would consider similar to your project? If so, please list them and describe how your game compares or differs.
+### Are there any existing games that you would consider similar to your project?
+*If so, please list them and describe how your game compares or differs.*
+> **Example** blah blah blah same same but different, Tetris, with an integrated on-chain platformer
 
 ### Do you have a Game Design Document (GDD) for your project?
-- **If yes,** could you please share the link of the document with us?
-- **If no,** could you provide an excerpt or summary that highlights key aspects of your game's design, mechanics, and vision?
+- **If yes,** *could you please share the link of the document with us?*
+- **If no,** *could you provide an excerpt or summary that highlights key aspects of your game's design, mechanics, and vision?*
+> **Example** YES, blah blah blah I have one that's super confident, but I can share it with one or two curators if they sign an NDA.
 
 ## 2. Game Dev Experience
 
 ### Have you built games prior to this bounty request?
-- **If yes,** please list game name(s) & links:
+- **If yes,** *please list game name(s) & links:*
+> **Example** blah blah blah, I was part of the core team from Bowser Jr., and helped to tackle down Peach, [Super Mario Kart](https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/)
 
 ### Do any of the previously mentioned games have a Web3 component?
-- **If yes,** please describe the Web3 components, link reference & blockchain ecosystem:
+- **If yes,** *please describe the Web3 components, link reference & blockchain ecosystem:*
+> **Example** NO, blah blah blah I never did a web3 game.
 
 ### Do you have experience in working with game engines, such as Unity & Unreal?
-- **If yes,** please include some insights:
+- **If yes,** *please include some insights:*
+> **Example** YES, blah blah blah I worked with Unity and created a few games, checkout the links, showing [my portfolio](https://pokemongolive.com/).
 
 ## 3. Technical Expertise
 
@@ -56,14 +62,16 @@
 - [ ] I know Rust & Substrate and can create basic runtime code.
 - [ ] Other:
 
-### Would you like a technical Team from Polkadot Play, to help you on identifying the technical requirements?
+### Would you like a technical Team from Polkadot Play, to help you identify the technical requirements?
 - **If yes,** please describe what you consider your major pain points.
+> **Example** YES, blah blah blah we face current challenges in the game asset storage setup, and would like to understand different on-chain possibilities.
 
 ## 4. The Team
 
 ### Could you share insights about team members who are essential to your project's success? Highlight their specific skill sets and contributions to the game development. 
 
 #### Team member #1
+> **Example** Bowser Jr., the prodigious offspring of the Mushroom Kingdom's most notorious villain, has swapped his paintbrush for programming, proving that the apple doesn't fall far from the Koopa Clown Car. With a knack for coding that rivals his knack for chaos, Jr. has turned his talents to web3 gaming. Leveraging his extensive experience in dodging Mario and crafting devious levels, he's now pioneering the integration of NFTs and blockchain into games that are as engaging as they are secure. Imagine game worlds where every power-up is an NFT, and Bowser's castles are decentralized applications—Bowser Jr. is making it happen. He's fluent in Solidity and Rust, and his first smart contract turned a simple coin block into a dynamic asset distributor. On this team, Bowser Jr. is not just a boss level but a level-up for blockchain gaming innovation.
 
 #### Team member #2
 
@@ -72,36 +80,26 @@
 #### Team member #.
 
 ### Team Code Repos
-
-- https://github.com/{your_organisation}/{project_1}
-- https://github.com/{your_organisation}/{project_2}
+> **Example** - https://github.com/pintendo/superbowsermart
 
 ### Team LinkedIn Profiles (if available)
+> **Example** - [Bowser Jr.](https://www.linkedin.com/)
 
-- https://www.linkedin.com/{person_1}
-- https://www.linkedin.com/{person_2}
-
-### Additionally, please provide links to LinkedIn profiles and/or other professional platforms for these key team members. 
-
-## 5. Roadmap & Funds
+## 5. Development
 
 ### Development Status :open_book:
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here.
+> **Example** ...
 
 ### What are the key milestones for your game's development, and what are the estimated completion dates for each?
 - **Milestone 1:**
 - **Milestone 2:**
 - **Milestone 3:**
 
-### What is the requested amount of $ you need to kick off?
-- **The range should be between $5,000 - $200,000.**
-
-### What will you achieve with that requested amount according to the shared roadmap?
-
 ### Are you intending to raise more funds?
 - **If yes,** please describe what you expect to be the full amount needed to finalize the product.
 
-## 6. Development Roadmap :nut_and_bolt:
+## 6. Detailed Development Roadmap :nut_and_bolt:
 
 This section should break the development roadmap down into milestones and deliverables. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
