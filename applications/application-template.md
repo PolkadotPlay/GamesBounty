@@ -1,0 +1,167 @@
+# Name of your Project
+
+> This document will be part of the terms and conditions of your agreement and, therefore, needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g., `![](image.png)` instead of `<img>`).
+>
+> See the [Games Bounty Application](https://github.com/PolkadotPlay/GamesBounty/#pencil-process) on how to submit a proposal.
+
+- **Team Name:** Legal name of your team (e.g. JsonCorp)
+- **Funding Details:**
+  - **DOT**: For the **DOT** compensation, please provide a Polkadot address. (ex. multisig, with core contributors)
+
+> :exclamation: *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+
+## Game Project Overview :page_facing_up:
+
+# Game Project Application Form
+
+## 1. Pitch the Game
+
+### Please describe the game in a short pitch.
+- **Example Answer:** "EtherQuests" merges MMORPG excitement with blockchain innovation, offering a player-driven world where every item and quest is a unique NFT. Engage in epic battles, uncover treasures, and shape the game's universe. Your achievements hold real-world value, blurring the lines between gaming and ownership.
+
+### Please describe the game's core loop? (minimalistic)
+- **Example:** Battle (Action) -> Loot (Reward) -> Buy/Sell -> Upgrade
+
+### Are there any existing games that you would consider similar to your project? If so, please list them and describe how your game compares or differs.
+
+### Do you have a Game Design Document (GDD) for your project?
+- **If yes,** could you please share the link of the document with us?
+- **If no,** could you provide an excerpt or summary that highlights key aspects of your game's design, mechanics, and vision?
+
+## 2. Game Dev Experience
+
+### Have you built games prior to this bounty request?
+- **If yes,** please list game name(s) & links:
+
+### Do any of the previously mentioned games have a Web3 component?
+- **If yes,** please describe the Web3 components, link reference & blockchain ecosystem:
+
+### Do you have experience in working with game engines, such as Unity & Unreal?
+- **If yes,** please include some insights:
+
+## 3. Technical Expertise
+
+### How much of your game logic do you intend to build on the blockchain?
+- [ ] None, I just want a token.
+- [ ] Only the Game Assets/NFTs should remain on-chain.
+- [ ] Some mechanics will need to be on-chain.
+- [ ] This should be a fully on-chain game.
+- [ ] Other: 
+
+### Do you have any expertise in Blockchain Development?
+- [ ] No, none at all.
+- [ ] I know how the Blockchain works, but never developed anything in crypto.
+- [ ] I have EVM / SmartContract experience.
+- [ ] I have only used SDK for my games on other platforms.
+- [ ] I know Rust & Substrate and can create basic runtime code.
+- [ ] Other:
+
+### Would you like a technical Team from Polkadot Play, to help you on identifying the technical requirements?
+- **If yes,** please describe what you consider your major pain points.
+
+## 4. The Team
+
+### Could you share insights about team members who are essential to your project's success? Highlight their specific skill sets and contributions to the game development. 
+
+#### Team member #1
+
+#### Team member #2
+
+#### Team member #3
+
+#### Team member #.
+
+### Team Code Repos
+
+- https://github.com/{your_organisation}/{project_1}
+- https://github.com/{your_organisation}/{project_2}
+
+### Team LinkedIn Profiles (if available)
+
+- https://www.linkedin.com/{person_1}
+- https://www.linkedin.com/{person_2}
+
+### Additionally, please provide links to LinkedIn profiles and/or other professional platforms for these key team members. 
+
+## 5. Roadmap & Funds
+
+### Development Status :open_book:
+If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here.
+
+### What are the key milestones for your game's development, and what are the estimated completion dates for each?
+- **Milestone 1:**
+- **Milestone 2:**
+- **Milestone 3:**
+
+### What is the requested amount of $ you need to kick off?
+- **The range should be between $5,000 - $200,000.**
+
+### What will you achieve with that requested amount according to the shared roadmap?
+
+### Are you intending to raise more funds?
+- **If yes,** please describe what you expect to be the full amount needed to finalize the product.
+
+## 6. Development Roadmap :nut_and_bolt:
+
+This section should break the development roadmap down into milestones and deliverables. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+
+Below we provide an **example roadmap**. In the descriptions, it should be clear how your game project is related to Substrate, Kusama, Polkadot, or a (System-)Parachain. We *recommend* that teams structure their roadmap as 1 milestone ≈ 1 month.
+
+> :exclamation: If any of your deliverables are based on somebody else's work, make sure you work and publish *under the terms of the license* of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Projects that submit other people's work without proper attribution will be immediately terminated.**
+
+### Overview
+
+- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
+- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
+- **Total Costs:** Requested amount in DOT for the whole project (e.g. 2,500 DOT).
+
+### Milestone 1 Example — Basic functionality
+
+- **Estimated duration:** 1 month
+- **FTE:**  1,5
+- **Costs:** 1,000 DOT
+
+> :exclamation: **The default deliverables 0a-0d below are mandatory for all milestones**, and deliverable 0e at least for the last one.
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
+| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
+| **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language, and medium should reflect your target audience described above.) |
+| 1. | Substrate module: X | We will create a Substrate module that will... (Please list the functionality that will be implemented for the first milestone. You can refer to details provided in previous sections.) |
+| 2. | Substrate module: Y | The Y Substrate module will... |
+| 3. | Substrate module: Z | The Z Substrate module will... |
+| 4. | Substrate chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |
+| 5. | Library: ABC | We will deliver a JS library that will implement the functionality described under "ABC Library" |
+| 6. | Smart contracts: ... | We will deliver a set of ink! smart contracts that will...
+
+
+### Milestone 2 Example — Additional features
+
+- **Estimated Duration:** 1 month
+- **FTE:**  1,5
+- **Costs:** 1,000 DOT
+
+...
+
+
+## 7. Future Plans
+
+Please include here
+
+- how you intend to finance the project's long-term maintenance and development,
+- how you intend to use, enhance, and promote your project in the short term, and
+- the team's long-term plans and intentions in relation to it.
+
+## 8. Additional Information :heavy_plus_sign:
+
+### While we've covered a range of topics, there might still be questions or areas of uncertainty on your side or ours. We encourage you to share any additional thoughts, questions, or concerns you may have, with us.
+
+### How did you hear about the Grants Program?
+- [ ] Polkadot Play Website
+- [ ] Twitter
+- [ ] Medium
+- [ ] Personal recommendation
+- [ ] Other:
