@@ -1,12 +1,3 @@
----
-name: Custom Application PR
-about: Games Bounty application or delivery
-title: ''
-labels: application, delivery
-assignees: ''
-
----
-
 Project Abstract
 > Please replace these instructions with a brief description of your project summarising key points (1-2 paragraphs).
 
