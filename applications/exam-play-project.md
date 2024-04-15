@@ -82,6 +82,16 @@ Community and Collaboration: Bolstered by an affiliate system that encourages co
 
 Yes, we do have a GDD, I can provide extracts of it if necessary, I will add partial Screenshots, of elements and their specification.
 
+![image](https://github.com/ajuna-network/GamesBounty/assets/17710198/d01755ea-03a5-4794-b5a1-a3a73d9a55c6)
+
+![image](https://github.com/ajuna-network/GamesBounty/assets/17710198/33e22bb4-b0d5-42e6-928a-535c30b020b9)
+
+![image](https://github.com/ajuna-network/GamesBounty/assets/17710198/95cc22a8-b2d3-4381-af82-e25467e6b303)
+
+![image](https://github.com/ajuna-network/GamesBounty/assets/17710198/44ff97a2-c4cc-4809-b5c6-4f49f17b5cbb)
+
+![image](https://github.com/ajuna-network/GamesBounty/assets/17710198/ad646c21-95f5-4740-82d9-902b8e6e9c8b)
+
 ## 2. Game Dev Experience
 
 ### Have you built games prior to this bounty request?
