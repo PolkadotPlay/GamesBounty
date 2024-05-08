@@ -43,16 +43,22 @@ https://chainsafe.notion.site/Game-Design-Document-for-Fragments-70ad7d8efec14fa
 ## 2. Game Dev Experience
 
 ### Have you built games prior to this bounty request?
-- **If yes,** *please list game name(s) & links:*
-> **Example** blah blah blah, I was part of the core team from Bowser Jr., and helped to tackle down Peach, [Super Mario Kart](https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/)
+- **[Isonzo](https://youtu.be/GAv34SMEjMI)** 
+* Advanced Kinematic Character Controller
+* New behaviours on bots
+* Development of challenge and achievements systems
+* Game settings from scratch
+* Lead audio programming development
+
+- **[Beat Cancer](https://www.youtube.com/watch?v=9hnLrSvW220)**
+- **[Planet Rabbit](https://www.youtube.com/watch?v=n0XyF6U4qGs)**
+- **[Block Blasterz](https://github.com/ChainSafe/BlockBlasterz)**
 
 ### Do any of the previously mentioned games have a Web3 component?
-- **If yes,** *please describe the Web3 components, link reference & blockchain ecosystem:*
-> **Example** NO, blah blah blah I never did a web3 game.
+Block Blasterz is a web3 game that uses Etherum for its in-game currency, lootboxes, fiat-to-crypto conversion, and an NFT Marketplace. It also allows for EVM-based cross chain asset transfers with the Block Racerz game. We have been building and extending autonmous worlds on Ethereum (MUD framework) and on Starknet (Dojo Framework). 
 
 ### Do you have experience in working with game engines, such as Unity & Unreal?
-- **If yes,** *please include some insights:*
-> **Example** YES, blah blah blah I worked with Unity and created a few games, checkout the links, showing [my portfolio](https://pokemongolive.com/).
+Yes, we have extensive experience working with Unity and in-depth knowledge building blockchain SDKs for Unity. We have also worked with Unreal Engine, but not as extensively as Unity. We have experience with all aspects of game development, including game design, game mechanics, game physics, and game asset creation.
 
 ## 3. Technical Expertise
 
