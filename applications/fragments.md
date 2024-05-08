@@ -109,7 +109,7 @@ Blockchain Developer with experience in Substrate, Rust, and Solidity smart cont
 > **Example** - https://github.com/pintendo/superbowsermart
 
 ### Team LinkedIn Profiles (if available)
-> **Example** - [Bowser Jr.](https://www.linkedin.com/)
+- [Martin Maurer](https://www.linkedin.com/in/martin-maurer-hh/)
 
 ## 5. Development
 
@@ -120,7 +120,6 @@ If you've already started implementing your project or it is part of a larger re
 The Ideal Network is a substrate-based chain with a novel consensus mechanism (as a post finality gadget) enabling publicly verifiable on-chain randomness and timelock encryption. Our development thus far has been exclusively funded by the web3 foundation, both through the open grants program and now as part of the Decentralized Futures initiative: https://medium.com/web3foundation/decentralized-futures-introducing-etf-network-cd8282be6143.
 
 The Ideal Labs github is here: https://github.com/ideal-lab5 where you can find the repositories we will use in developing this proposal, including the [ETF repo](https://github.com/ideal-lab5/etf), [etf.js](https://github.com/ideal-lab5/etf.js), and [etf-sdk](https://github.com/ideal-lab5/etf-sdk).
-
 
 You can read more about how it works at: https://medium.com/@ideal_labs/the-etf-post-finality-gadget-1dd6d7f12034
 We have previously built some proof-of-concepts on the Ideal Network, such as: https://ideallabs.substack.com/p/p2p-semi-autonomous-games-part-3?utm_source=profile&utm_medium=reader2
@@ -191,7 +190,7 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 | 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the games bounty). (Content, language, and medium should reflect your target audience described above.) |
 | 1. | Backend Module: The Murmur Client | This is a standalone rust client responsible for deriving the encrypted payloads that each fragment contains. Specifically, it functions as described [here](https://chainsafe.notion.site/Technology-3cd66a1474bb47029f361d401bd48cfa). Beyond this, the client adds the encrypted fragment payloads to IPFS and has the capability to interact with the chain, where it is responsible for deployed new instances of the game contract. | 
 | 2. | Smart Contract: The Fragments Game Contract | We implement the fragments game logic within an ink! smart contract. The contract is deployed by the murmur client and seeded with cryptographic commitments to the derived fragments. It also stores references to IFPS CIDs of each of the encrypted (timelocked) fragments. | 
-| 3. | Frontend Module: Simple Browser-Based Game Interface | We develop a simple browser-based game interface that uses the etf.js library to perform timelock encryption/decryption and to interact with the game contract and chain (through polkadot-js). The frontend framework of our choice is React.|
+| 3. | Frontend Module: Simple Browser-Based Game Interface | We develop a simple browser-based game interface that uses the etf.js library to perform timelock encryption/decryption and to interact with the game contract and chain (through polkadot-js).|
 
 
 I left the following for posterity. These are other items/descriptions from the template :
