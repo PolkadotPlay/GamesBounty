@@ -96,6 +96,7 @@ Yes, we would. While we believe we have an excellent understanding of the techni
 #### Coleman Irby
 
 #### Martin Maurer
+Blockchain Developer with experience in Substrate, Rust, and Solidity smart contracts. Game Designer and technical artist with experience in Unity and Unreal Engine. Proficient in 3D modeling, texturing, and animation. Technical Project Manager with experience in Agile methodologies and Scrum at ChainSafe Systems.
 
 #### Carlos Montoya
 
