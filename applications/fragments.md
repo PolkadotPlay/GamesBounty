@@ -83,7 +83,6 @@ Yes, we have extensive experience working with Unity and in-depth knowledge buil
 - [x] Other: Highly experienced in Rust & Substrate and can develop new runtime code.
 
 ### Would you like a technical Team from Polkadot Play, to help you identify the technical requirements?
-
 Yes, we would. While we believe we have an excellent understanding of the technical requirements for this proposal, we would very much appreciate another look/perspective, as there undoubtedly some unknowns or things we may have overlooked. We do not have any specific pain points at the moment. In addition, we would appreciate technical expertise in reviewing our game logic and implementation, as we have not developed a production-ready ink! based game before.
 
 ## 4. The Team
@@ -135,8 +134,15 @@ This proposal consists of two major milestones. Our first milestone is purely te
 
   This milestone implements two pieces:
   1) The Murmur Client: A standalone Rust client that produces payloads for the Murmur fragments
-  2) The Fragments Game Contract: An ink! smart contract that implements the logic for the Fragments game contract. 
+  2) The Fragments Game Contract: An ink! smart contract that implements the logic for the Fragments game contract.
 
+- **Milestone 3:** Develop a browser-based game interface
+
+  This milestone implements a simple browser-based game interface that uses the etf.js library to perform timelock encryption/decryption and to interact with the game contract and chain (through polkadot-js).
+
+- **Milestone 4:** Create game assets and integrate them into the game
+
+  This milestone involves creating the game assets and integrating them into the game. This includes creating the game's assets, such as the fragements, UI components and other assets, and integrating them into the game interface.
 
 ### Are you intending to raise more funds?
 - **If yes,** please describe what you expect to be the full amount needed to finalize the product.
