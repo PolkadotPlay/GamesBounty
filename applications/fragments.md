@@ -59,6 +59,8 @@ https://chainsafe.notion.site/Game-Design-Document-for-Fragments-70ad7d8efec14fa
 - **[Greedventory](https://store.steampowered.com/app/1895820/Greedventory/)**
 - **[Mortal Hockey Arcade](https://www.youtube.com/watch?v=vvzMc2pZMIs)**
 - **[Ghost Rider](https://drive.google.com/file/d/1yy-myQRMyyQe8ccw42qqGsWlQjEkN5ZQ/view?usp=sharing)**
+- **[Gebeta/Manchala](https://play.google.com/store/apps/details?id=com.qenegames.gebeta)**
+- **[Angrymals](https://angrymals.io/)**
 
 ### Do any of the previously mentioned games have a Web3 component?
 Block Blasterz is a web3 game that uses Etherum for its in-game currency, lootboxes, fiat-to-crypto conversion, and an NFT Marketplace. It also allows for EVM-based cross chain asset transfers with the Block Racerz game. We have been building and extending autonmous worlds on Ethereum (MUD framework) and on Starknet (Dojo Framework). 
