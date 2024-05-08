@@ -136,16 +136,8 @@ This proposal consists of two major milestones. Our first milestone is purely te
   1) The Murmur Client: A standalone Rust client that produces payloads for the Murmur fragments
   2) The Fragments Game Contract: An ink! smart contract that implements the logic for the Fragments game contract.
 
-- **Milestone 3:** Develop a browser-based game interface
-
-  This milestone implements a simple browser-based game interface that uses the etf.js library to perform timelock encryption/decryption and to interact with the game contract and chain (through polkadot-js).
-
-- **Milestone 4:** Create game assets and integrate them into the game
-
-  This milestone involves creating the game assets and integrating them into the game. This includes creating the game's assets, such as the fragements, UI components and other assets, and integrating them into the game interface.
-
 ### Are you intending to raise more funds?
-- **If yes,** please describe what you expect to be the full amount needed to finalize the product.
+There are no plans to raise additional funds right now, but we are open to discussing this in the future. The community reception of the game will be a significant factor in determining whether we will seek additional funding. Successful completion of proof-of-concept for the game mechanic will likely lead to further development. Crowd-funding is the most suitable funding model for the future.
 
 ## 6. Detailed Development Roadmap :nut_and_bolt:
 
@@ -195,7 +187,7 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 | 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the games bounty). (Content, language, and medium should reflect your target audience described above.) |
 | 1. | Backend Module: The Murmur Client | This is a standalone rust client responsible for deriving the encrypted payloads that each fragment contains. Specifically, it functions as described [here](https://chainsafe.notion.site/Technology-3cd66a1474bb47029f361d401bd48cfa). Beyond this, the client adds the encrypted fragment payloads to IPFS and has the capability to interact with the chain, where it is responsible for deployed new instances of the game contract. | 
 | 2. | Smart Contract: The Fragments Game Contract | We implement the fragments game logic within an ink! smart contract. The contract is deployed by the murmur client and seeded with cryptographic commitments to the derived fragments. It also stores references to IFPS CIDs of each of the encrypted (timelocked) fragments. | 
-| 3. | Frontend Module: Simple Browser-Based Game Interface | We develop a simple browser-based game interface that uses the etf.js library to perform timelock encryption/decryption and to interact with the game contract and chain (through polkadot-js). |
+| 3. | Frontend Module: Simple Browser-Based Game Interface | We develop a simple browser-based game interface that uses the etf.js library to perform timelock encryption/decryption and to interact with the game contract and chain (through polkadot-js). The frontend framework of our choice is React.|
 
 
 I left the following for posterity. These are other items/descriptions from the template :
@@ -225,5 +217,5 @@ Please include here
 - [ ] Polkadot Play Website
 - [ ] Twitter
 - [ ] Medium
-- [ ] Personal recommendation
+- [x] Personal recommendation
 - [x] Other: github, polkadot forum
