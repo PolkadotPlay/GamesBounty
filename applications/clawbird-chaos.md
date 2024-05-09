@@ -254,7 +254,6 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | **0d.** | Platform | Provide a detailed description of the game's platform compatibility and the infrastructure setup required to host and run the game, including supported operating systems, hardware requirements, and necessary backend services. |
 | 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the games bounty). (Content, language, and medium should reflect your target audience described above.) |
-
 | 1. | Backend module: CLAWBIRD CHAOS BE | We will create a Substrate module that will provide the following functionality: **TODO** |
 | 2. | Frontend module: CLAWBIRD CHAOS FE | We will create a frontend (Unity) that will  provide essential parts including the following: **TODO** |
 | 3. | Asset Layer: CLAWBIRD CHAOS AL | We will create an asset layer consisting of the concept and data models of our game assets models: **TODO** |
