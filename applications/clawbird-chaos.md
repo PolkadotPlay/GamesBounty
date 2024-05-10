@@ -48,10 +48,19 @@ NO, we do not have one yet to share but we may produce one that may be shared wi
 
 Yes, as listed below:
 
+- **Vara Arena**
+  * Role: Beta Tester, Member of ImpulseDAO Gaming Collective
+  * Date: Feb 2024
+  * [Pull Request with Example Strategy using State](https://github.com/ImpulseDAO/Vara-Arena/pull/85/files)
+    * [Re-post by ImpulseDAO](https://x.com/Impulse_dao/status/1758619643684553052)
+  * **Technology**
+    * Rust, Gear Protocol by [Gear Tech](https://gear-tech.io/) 
+
 - **FlappyTips 2**
+  * Role: Creator & Maintainer
+  * Date: Feb-Mar 2023
   * [Functional Demo](https://youtu.be/UhEuqTKF6aA)
   * [Open-source code](https://github.com/ltfschoen/flappytips)
-  * Date: Feb-Mar 2023
   * **Objective**: Fly the DOT character between more gaps (of obstacles blocks) than all other opponents to win the game of that starting block on the Zeitgeist chain.
   * **Economics**: Players may choose to play without using any funds. However, incentives exist that require tokens, where users may create a Substrate-based account and deposit sufficient tokens (DOT tokens) to cover the transaction costs required to share their game results. If the user plays the game and shares their results, they may be eligible for a tip from the treasury.
   * **Features:**
@@ -73,8 +82,9 @@ Yes, as listed below:
     * Polkadot.js API, Polkadot Extension, ink!, Express API, P5 Gaming API, React, Node.js 19, Yarn 3, Websockets, Docker
 
 - **FlappyTips 1**
-  * [Open-source code](https://github.com/ltfschoen/flappytips/releases)
+  * Role: Creator & Maintainer
   * Date: Jun-Jul 2020
+  * [Open-source code](https://github.com/ltfschoen/flappytips/releases)
   * **Features:**
 
     <details>
@@ -103,8 +113,9 @@ Yes, as listed below:
     * Polkadot.js API, Polkadot Extension, ink!, Express API, P5 Gaming API, React, Node.js 10, Yarn 1.
 
 - **FriendRecall Game Portal**
-  * [Functional Demo](https://youtu.be/-WC8WSwFvD4)
+  * Role: Creator
   * Date: Feb 2016
+  * [Functional Demo](https://youtu.be/-WC8WSwFvD4)
   * **Technology:**
     * 3D game environment developed for Apple iOS devices using Xcode with the Swift and Objective-C languages
     * SceneKit (3D game engine)
@@ -113,6 +124,7 @@ Yes, as listed below:
     * iCloud and Local User Defaults (persisting user game state across devices) 
 
 - **Paddle Tree Game**
+  * Role: Creator
   * [Functional Demo](https://youtu.be/RjGY3d_2ewI)
   * Date: Sept 2014
   * **About**
@@ -124,6 +136,15 @@ Yes, as listed below:
 - **If yes,** *please describe the Web3 components, link reference & blockchain ecosystem:*
 
 Yes, as listed below:
+
+- **Vara Arena**
+  * **Web3 components**
+    * **Technology**
+      * Gear Protocol by [Gear Tech](https://gear-tech.io/) 
+  * **Link Reference**
+    * [Pull Request with Example Strategy using State](https://github.com/ImpulseDAO/Vara-Arena/pull/85/files)
+  * **Blockchain ecosystems**
+    * Vara
 
 - **FlappyTips 2**
   * **Web3 components**
