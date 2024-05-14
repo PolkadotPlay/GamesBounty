@@ -108,3 +108,7 @@ The Games Bounty Program offers a simple milestone-based grant paid in DOT.
 | [Polkadot Play Website](https://polkadotplay.org) | [Polakdot Play Twitter](https://twitter.com/PlayPolkadot) | [Polkadot Wiki](https://wiki.polkadot.network/en/) |
 
 </div>
+
+## :information_source: License<!-- omit in toc -->
+
+[Apache License 2.0](LICENSE) © Web3 Foundation
