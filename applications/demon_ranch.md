@@ -22,7 +22,8 @@ The tower defense genre is very popular in the game market, with many examples i
 
 ### Do you have a Game Design Document (GDD) for your project?
 To create a thorough document, initial funding is necessary. In the meantime, we offer a basic design concept one-pager for a brief preview below.
-![image](mockup.png)
+
+![mockup](https://github.com/emrguzel/GamesBounty/assets/45739801/bfd9ed39-fdb1-483d-b4df-0e87ce07394b)
 
 
 ## 2. Game Dev Experience
