@@ -1,14 +1,10 @@
-# Name of your Project
+# Capstone Earth – Play and Preserve your Nature
 
-> This document will be part of the terms and conditions of your agreement and, therefore, needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g., `![](image.png)` instead of `<img>`).
->
-> See the [Games Bounty Application](https://github.com/PolkadotPlay/GamesBounty/#pencil-process) on how to submit a proposal.
 
-- **Team Name:** Legal name of your team (e.g. JsonCorp)
+- **Team Name:** Verein Capstone Earth
 - **Funding Details:**
-  - **DOT**: For the **DOT** compensation, please provide a Polkadot address. (ex. multisig, with core contributors)
-
-> :exclamation: *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+  - **DOT**: 15’000 DOT
+  - **Wallet address**: 16G8kmDocirZqQKJrBjN8Cmu3xsd668hXtaxNJUauM6UESPx
 
 ## Game Project Overview :page_facing_up:
 
@@ -17,87 +13,89 @@
 ## 1. Pitch the Game
 
 ### Please describe the game in a short pitch.
-> **Example** "EtherQuests" merges MMORPG excitement with blockchain innovation, offering a player-driven world where every item and quest is a unique NFT. Engage in epic battles, uncover treasures, and shape the game's universe. Your achievements hold real-world value, blurring the lines between gaming and ownership.
+Capstone Earth is an interactive serious game about protecting the habitats of the world's rich biodiversity. It uses the latest technology to make nature a conscious experience and to impart knowledge in a playful way through in-game challenges. Players can join a community of like-minded individuals to actively conserve nature and combat climate change, and are incentivized with NFT game item rewards - a true gamification of conservation and experience. Blockchain gives us valuable tools to incentivize people to protect nature. The goal of the project is to create a gamified framework or scaffolding that will help people see the true value of nature and thus preserve it.
 
 ### Please describe the game's core loop? (minimalistic)
-> **Example** Battle (Action) -> Loot (Reward) -> Buy/Sell -> Upgrade
+In-game build/farming & validate IRL habitat & solve quests-> Game Items/Loot (Reward) -> Buy/Sell -> Upgrade
 
 ### Are there any existing games that you would consider similar to your project?
 *If so, please list them and describe how your game compares or differs.*
-> **Example** blah blah blah same same but different, Tetris, with an integrated on-chain platformer
+Similar to "Pokémon Go" as an interactive AR mobile game, but with more IRL interaction with nature combined with a building/farming social game like "Animal Crossing", about nature conservation.
 
 ### Do you have a Game Design Document (GDD) for your project?
 - **If yes,** *could you please share the link of the document with us?*
 - **If no,** *could you provide an excerpt or summary that highlights key aspects of your game's design, mechanics, and vision?*
-> **Example** YES, blah blah blah I have one that's super confident, but I can share it with one or two curators if they sign an NDA.
+There is a paper based game concept and the game design will be developed in the next 3 months. Details can be shared if NDA is signed.
 
 ## 2. Game Dev Experience
 
 ### Have you built games prior to this bounty request?
 - **If yes,** *please list game name(s) & links:*
-> **Example** blah blah blah, I was part of the core team from Bowser Jr., and helped to tackle down Peach, [Super Mario Kart](https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/)
+No. The Capstone Earth team is made up of entrepreneurs from the esports/gaming industry, Web3/NFT, and researchers from biology and conservation, all of whom are passionate about video games. We're working with several teams from universities: 1) Department of Science and Technology Didactics of FHNW, Switzerland led by Dr. Julia Arnold and 2) Immersive Realities Research Lab of HSLU, Switzerland led by André Thomas. Mr. Thomas has more than 30 years of experience in game design, game development, interactive graphics techniques and CGI production and previously worked as Head of Graphics for EA Sports.
 
 ### Do any of the previously mentioned games have a Web3 component?
 - **If yes,** *please describe the Web3 components, link reference & blockchain ecosystem:*
-> **Example** NO, blah blah blah I never did a web3 game.
+No
 
 ### Do you have experience in working with game engines, such as Unity & Unreal?
 - **If yes,** *please include some insights:*
-> **Example** YES, blah blah blah I worked with Unity and created a few games, checkout the links, showing [my portfolio](https://pokemongolive.com/).
+Yes. Built virtual spaces in Unreal Engine and Unity. Example: https://aex-1.com/lab
 
 ## 3. Technical Expertise
 
 ### How much of your game logic do you intend to build on the blockchain?
 - [ ] None, I just want a token.
-- [ ] Only the Game Assets/NFTs should remain on-chain.
+- [x] Only the Game Assets/NFTs should remain on-chain.
 - [ ] Some mechanics will need to be on-chain.
 - [ ] This should be a fully on-chain game.
-- [ ] Other: 
+- [x] Other: Gamer’s profile/identity (KYC, enabling cross-platforms) & in-game currency integration
 
 ### Do you have any expertise in Blockchain Development?
 - [ ] No, none at all.
-- [ ] I know how the Blockchain works, but never developed anything in crypto.
-- [ ] I have EVM / SmartContract experience.
+- [x] I know how the Blockchain works, but never developed anything in crypto.
+- [x] I have EVM / SmartContract experience.
 - [ ] I have only used SDK for my games on other platforms.
 - [ ] I know Rust & Substrate and can create basic runtime code.
-- [ ] Other:
+- [x] Other: Worked at GameDAO in the Polkadot ecosystem and on Web3 projects in other industries (DAO, finance, tokenization, NFT, crypto trading) 
 
 ### Would you like a technical Team from Polkadot Play, to help you identify the technical requirements?
 - **If yes,** please describe what you consider your major pain points.
-> **Example** YES, blah blah blah we face current challenges in the game asset storage setup, and would like to understand different on-chain possibilities.
+Yes, we would need support in setting up the game assets on the chain and a user friendly wallet integration.
 
 ## 4. The Team
 
 ### Could you share insights about team members who are essential to your project's success? Highlight their specific skill sets and contributions to the game development. 
 
 #### Team member #1
-> **Example** Bowser Jr., the prodigious offspring of the Mushroom Kingdom's most notorious villain, has swapped his paintbrush for programming, proving that the apple doesn't fall far from the Koopa Clown Car. With a knack for coding that rivals his knack for chaos, Jr. has turned his talents to web3 gaming. Leveraging his extensive experience in dodging Mario and crafting devious levels, he's now pioneering the integration of NFTs and blockchain into games that are as engaging as they are secure. Imagine game worlds where every power-up is an NFT, and Bowser's castles are decentralized applications—Bowser Jr. is making it happen. He's fluent in Solidity and Rust, and his first smart contract turned a simple coin block into a dynamic asset distributor. On this team, Bowser Jr. is not just a boss level but a level-up for blockchain gaming innovation.
+**Fernando Studer** is a conservation biologist with a Master of Science in Ecology from the University of Basel in Switzerland. He is also an educator with two degrees that qualify him to teach biology on a high school level. Most recently, he worked as a conservation educator at the Zoological Garden in Basel where he learned about in Situ and ex Situ conservation efforts around the globe along with the hurdles these projects are facing. From an early age, Fernando grew up with analog and digital games, which to this day interest him. He is the mind behind and majority owner of a game culture bar in Basel named ManaBar GmbH and created a vast network within the game community of Switzerland called the “Round table of Game Culture”. Fernando wants to pursue his goal of transitioning from a consumer-role of games more into a creator role.  He brings the necessary biological knowledge and the underlying philosophy of a nature conservationist to successfully realize this project. It is his goal to actually create an impact for nature, in a way that future generations can consider fun.
 
 #### Team member #2
+""Yonghan Lee"" is an entrepreneur/manager and author/editor of the crypto book "Ignore at Your Own Risk: The New Decentralized World of Bitcoin and Blockchain". He holds a Master of Science in Communication Systems from the Swiss Federal Institute of Technology in Lausanne (EPFL). Beside his passion for innovation and technology, he holds the PMP certification and has multidisciplinary skills from over 14 years experience in Financial Services in the field of Digital Assets & Blockchain, Digital Transformation in banking as well as Gaming/Esports. Worked as business development and product owner at GameDAO in the polkadot ecosystem. Experienced in managing and consulting various other ventures in Web3, Gaming and Esports, Yonghan turned Capstone Earth into a much bigger project than originally intended and brought in his project management skills, vast knowledge of the blockchain- and crypto space and his investor network. With his business-mind and strategic outlook he manages the progress of the project and ensures the continuous impact of Capstone Earth.
 
-#### Team member #3
-
-#### Team member #.
 
 ### Team Code Repos
-> **Example** - https://github.com/pintendo/superbowsermart
+Not yet started - https://github.com/capstone-earth
 
 ### Team LinkedIn Profiles (if available)
-> **Example** - [Bowser Jr.](https://www.linkedin.com/)
+https://www.linkedin.com/in/fernando-studer-092a6696
+https://www.linkedin.com/in/yonghanlee
 
 ## 5. Development
 
 ### Development Status :open_book:
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here.
-> **Example** ...
+The project started in 2022 and the business model as well as the game concept were further developed in the early-stage accelerator program of Zünder accelerator and were finalists in challenges such as the Greentech startup battle, the Swiss innovation challenge and the Swiss sustainability challenge. Initial funding of CHF 150k was secured in Q2 2024 to work on an MVP to be released in a staged milestone approach. However, code implementation hasn't started yet.
+
 
 ### What are the key milestones for your game's development, and what are the estimated completion dates for each?
-- **Milestone 1:**
-- **Milestone 2:**
-- **Milestone 3:**
+- **Milestone 1:** Complete game design by Q3 2024
+- **Milestone 2:** Complete MVP and test with 1000 high school students in Basel (LOI signed) by Q4 2024
+- **Milestone 3:** NFT/token sale by Q1 2025
+- **Milestone 4:** Game Beta version by Q2 2025
+- **Milestone 5:** Game Release by Q3/Q4 2025
 
 ### Are you intending to raise more funds?
-- **If yes,** please describe what you expect to be the full amount needed to finalize the product.
+Funding for the game design phase has been secured and upon reaching milestone 1, funding for the MVP of the game (excluding the Web3 part) will be released. Additional funding of USD 1.5 million will be raised for Web3 integration, marketing, community building and completion of the game (the amount may be less depending on the token sale).
 
 ## 6. Detailed Development Roadmap :nut_and_bolt:
 
@@ -109,50 +107,41 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in DOT for the whole project (e.g. 2,500 DOT).
+- **Total Estimated Duration:** Duration of the MVP phase is 6 months
+- **Full-Time Equivalent (FTE):**  2.5 FTE 
+- **Total Costs:** Requested amount in DOT for the Web3 integration portion of the project during the MVP phase: 15’000 DOT
 
-### Milestone 1 Example — Basic functionality
+### Milestone 1 — Inception/Elaboration: Basics on chain
 
-- **Estimated duration:** 1 month
-- **FTE:**  1,5
-- **Costs:** 1,000 DOT
+- **Estimated duration:** 2 months
+- **FTE:**  2,5
+- **Costs:** 5,000 DOT
+- **Deliverables:** Token structuring (for NFT, in-game CCY, governance etc.), Blockchain Solution Architecture (BSA), Legal clarifications, IT Requirements and specifications, Documentations, Agreements/License
 
-> :exclamation: **The default deliverables 0a-0d below are mandatory for all milestones**, and deliverable 0e at least for the last one. Examples of steps are shown in 1 - 8.
+### Milestone 2 — Implementation: Game Integration and testing
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| **0a.** | License | Specify the IP owning entity; ensure proper copyright compliance for all reused materials, including appropriate licenses and attributions, or choose an open-source license (Apache 2.0, GPLv3, MIT, Unlicense). |
-| **0b.** | Documentation | Provide comprehensive **inline documentation** of the code and a detailed **tutorial**. The tutorial should guide users on how to set up, play the game, and assess the milestone's deliverables, ensuring functionality and compliance with the milestone objectives. |
-| **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| **0d.** | Platform | Provide a detailed description of the game's platform compatibility and the infrastructure setup required to host and run the game, including supported operating systems, hardware requirements, and necessary backend services. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the games bounty). (Content, language, and medium should reflect your target audience described above.) |
-| 1. | Backend module: X | We will create a Substrate module that will... (Please list the functionality that will be implemented for the first milestone. You can refer to details provided in previous sections.) |
-| 2. | Frontend module: Y | We will create a frontend (Unity, Unreal or other) in .... (please provide essential parts that are captured in the frontend) |
-| 3. | Asset Layer: Z | We will create an asset layer consisting of those asset models ... (provide the concept and data model of your game assets) ... |
-| 4. | Substrate chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |
-| 5. | Library: ABC | We will deliver a JS library that will implement the functionality described under "ABC Library" |
-| 6. | Smart contracts: ... | We will deliver a set of ink! smart contracts that will...
-| 7. | GDD: ... | We will create an comprehensive Game Design Document (GDD) including the core game loop and the game narrative ... |
-| 8. | BSA: ... | We will create an Blockchain Solution Architecture (BSA) showing the proper interaction of the game with the Blockchain elements and ... |
+- **Estimated duration:** 2 months
+- **FTE:**  2,5
+- **Costs:** 5,000 DOT
+- **Deliverables:** Smart Contracts/Token live on chain, game integration (token and wallet/gamer’s profile), test results, operational readiness
 
-### Milestone 2 Example — Additional features
+### Milestone 3 — Token Sale, Marketing and Community Building
 
-- **Estimated Duration:** 1 month
-- **FTE:**  1,5
-- **Costs:** 1,000 DOT
-
-...
+- **Estimated duration:** 2 months
+- **FTE:**  2,5
+- **Costs:** 5,000 DOT
+- **Deliverables:** Promotion campaigns, token sale & distribution, community events
 
 
 ## 7. Future Plans
 
-Please include here
+- Scaling of users and expansion of habitats to other regions (national and international)
+- Further development of the game with new features
+- Financing by public and private institutions
+- Sale of the collected data on nature and biodiversity by potential institutes and organizations. In this way, the game fulfills a meaningful purpose for nature and the game remains free of charge.
+- Community building with teachers/students, conservationists, (mobile) gamers, web3 gamers, influencers/content creators (as a DAO governance)
+- Short term promotion: Run a crowdfunding campaign and collaborate with suitable influencers/content creators
 
-- how you intend to finance the project's long-term maintenance and development,
-- how you intend to use, enhance, and promote your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
 
 ## 8. Additional Information :heavy_plus_sign:
 
@@ -162,5 +151,5 @@ Please include here
 - [ ] Polkadot Play Website
 - [ ] Twitter
 - [ ] Medium
-- [ ] Personal recommendation
+- [x] Personal recommendation
 - [ ] Other:
