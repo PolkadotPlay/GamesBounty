@@ -1,6 +1,5 @@
 # Capstone Earth – Play and Preserve your Nature
 
-
 - **Team Name:** Verein Capstone Earth
 - **Funding Details:**
   - **DOT**: 15’000 DOT
@@ -26,6 +25,7 @@ Similar to "Pokémon Go" as an interactive AR mobile game, but with more IRL int
 - **If yes,** *could you please share the link of the document with us?*
 - **If no,** *could you provide an excerpt or summary that highlights key aspects of your game's design, mechanics, and vision?*
 There is a paper based game concept and the game design will be developed in the next 3 months. Details can be shared if NDA is signed.
+Link to first draft version of GDD: https://github.com/capstone-earth/GamesBounty/blob/main/GDD-capstone-earth.md
 
 ## 2. Game Dev Experience
 
@@ -78,6 +78,7 @@ Not yet started - https://github.com/capstone-earth
 
 ### Team LinkedIn Profiles (if available)
 https://www.linkedin.com/in/fernando-studer-092a6696
+
 https://www.linkedin.com/in/yonghanlee
 
 ## 5. Development
