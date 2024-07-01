@@ -109,7 +109,9 @@ With over 4 years of experience in the game development and education sectors, P
 
 ### Team Code Repos
 > https://github.com/TtomaS7
+> 
 > github.com/sventime
+> 
 > https://github.com/pasha-str27
 
 ### Team LinkedIn Profiles (if available)
