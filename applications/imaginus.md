@@ -82,8 +82,7 @@ With 5+ years of experience in 2d art and game industry including concept art. I
 #### Team member #4
 Oleksii Khorkhulu
 
-Game-Animator
-2D animator for mobile games. Experienced around 4 years in the animation and game industry.
+Game-Animator for mobile games. Experienced around 4 years in the animation and game industry.
 I use Spine 2D Pro, After Effects for animations. I like to make beautiful smooth and lively character animations.
 
 #### Team member #5
@@ -110,7 +109,7 @@ With over 4 years of experience in the game development and education sectors, P
 ### Team Code Repos
 > https://github.com/TtomaS7
 > 
-> github.com/sventime
+> https://github.com/sventime
 > 
 > https://github.com/pasha-str27
 
@@ -147,7 +146,7 @@ This section should break the development roadmap down into milestones and deliv
 - **FTE:** 2 (Designer, Animator)
 - **Costs:** $38,400
 
-> :exclamation: **The default deliverables 0a-0d below are mandatory for all milestones**, and deliverable 0e at least for the last one. Examples of steps are shown in 1 - 8.
+> :exclamation: **The default deliverables 0a-0d below are mandatory for all milestones**. Examples of steps are shown in 1 - 8.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -198,12 +197,11 @@ This section should break the development roadmap down into milestones and deliv
 
 ## 7. Future Plans
 
-1. **Long-term Project Financing and Development**
-We have detailed our plans for financing the long-term maintenance and development of the project. https://docs.google.com/spreadsheets/d/1owq8FOGg3dRRqrpH1Qas3NQ5Cu0ND6I7nFnycuzZ4Dg/edit?usp=sharing
-2. **Single-Player Mode Release** 
+1. **Long-term project financing and development**
+We have detailed our plans for financing the long-term maintenance and development of the project. https://docs.google.com/spreadsheets/d/1owq8FOGg3dRRqrpH1Qas3NQ5Cu0ND6I7nFnycuzZ4Dg/edit?usp=sharing. You can also view our roadmap. I'm adding the link here: [roadmap](https://imaginus.gitbook.io/litepaper/roadmap/imaginus-roadmap).
+2. **Single-player mode release** 
 The single-player mode of "Imaginus" is scheduled for release in Q4 2024 or Q1 2025. Players will embark on an exciting journey through the meticulously crafted game universe, discovering the story of Ima and the magical world around them
-3. **Long-term Project Financing and Development**
-We have detailed our plans for financing the long-term maintenance and development of the project. You can also view our roadmap. I'm adding the link here: [roadmap](https://imaginus.gitbook.io/litepaper/roadmap/imaginus-roadmap).
+
 
 ## 8. Additional Information :heavy_plus_sign:
 
